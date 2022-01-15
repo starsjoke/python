@@ -1,4 +1,4 @@
-import mydef.usage_o as use
+import files.cls.usage_o as use
 
 myClass = use.testsum()
 

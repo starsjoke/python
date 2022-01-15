@@ -4,12 +4,12 @@ class testsum:
 
     def file_write(self):
         line = ['100\n', '90\n', '89\n', '88\n', '100\n']
-        with open('student_grades.txt', 'r')as file:
+        with open('../student_grades.txt', 'r')as file:
             file.writelines(line)
 
     def file_read(self):  # 파일의 값을 배열로 리턴하는 함수
         h = []
-        with open('student_grades.txt', 'r')as file:
+        with open('../cls/student_grades.txt', 'r')as file:
             line = None
             while line != '':
                 line = file.readline()
