@@ -1,28 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="49d62772-03e8-4c1e-a941-db4dfaf2938f" name="Default Changelist" comment="" />
+    <list default="true" id="49d62772-03e8-4c1e-a941-db4dfaf2938f" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/pycham.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/pycham.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/files/cls/usage_o.py" beforeDir="false" afterPath="$PROJECT_DIR$/files/cls/usage_o.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/files/student_grades.txt" beforeDir="false" afterPath="$PROJECT_DIR$/files/student_grades.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/files/useage_of_file.py" beforeDir="false" afterPath="$PROJECT_DIR$/files/useage_of_file.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectId" id="1XZGartbVkUallXBo6DJYCEpw5d" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="settings.editor.selected.configurable" value="Shelf.Project.Settings" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/def" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python.useage_of_file">
     <configuration name="calculate_tkinder" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pycham" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -45,8 +60,54 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="usage_o" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pycham" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/files/cls" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/files/cls/usage_o.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="useage_of_file" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pycham" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/files" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/files/useage_of_file.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.useage_of_file" />
+        <item itemvalue="Python.usage_o" />
         <item itemvalue="Python.calculate_tkinder" />
       </list>
     </recent_temporary>
@@ -63,6 +124,7 @@
       </list>
     </option>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -73,53 +135,33 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1581246269590</updated>
+      <workItem from="1643599060468" duration="934000" />
+      <workItem from="1643600209601" duration="75000" />
+      <workItem from="1643600302748" duration="6113000" />
     </task>
     <servers />
   </component>
-  <component name="WindowStateProjectService">
-    <state width="1419" height="264" key="GridCell.Tab.0.bottom" timestamp="1581250173934">
-      <screen x="0" y="23" width="1440" height="825" />
-    </state>
-    <state width="1419" height="212" key="GridCell.Tab.0.bottom/0.23.1440.823@0.23.1440.823" timestamp="1581246809929" />
-    <state width="1419" height="264" key="GridCell.Tab.0.bottom/0.23.1440.825@0.23.1440.825" timestamp="1581250173934" />
-    <state width="1419" height="212" key="GridCell.Tab.0.bottom/0.23.1440.826@0.23.1440.826" timestamp="1581249239732" />
-    <state width="1419" height="264" key="GridCell.Tab.0.center" timestamp="1581250173933">
-      <screen x="0" y="23" width="1440" height="825" />
-    </state>
-    <state width="1419" height="212" key="GridCell.Tab.0.center/0.23.1440.823@0.23.1440.823" timestamp="1581246809928" />
-    <state width="1419" height="264" key="GridCell.Tab.0.center/0.23.1440.825@0.23.1440.825" timestamp="1581250173933" />
-    <state width="1419" height="212" key="GridCell.Tab.0.center/0.23.1440.826@0.23.1440.826" timestamp="1581249239731" />
-    <state width="1419" height="264" key="GridCell.Tab.0.left" timestamp="1581250173933">
-      <screen x="0" y="23" width="1440" height="825" />
-    </state>
-    <state width="1419" height="212" key="GridCell.Tab.0.left/0.23.1440.823@0.23.1440.823" timestamp="1581246809928" />
-    <state width="1419" height="264" key="GridCell.Tab.0.left/0.23.1440.825@0.23.1440.825" timestamp="1581250173933" />
-    <state width="1419" height="212" key="GridCell.Tab.0.left/0.23.1440.826@0.23.1440.826" timestamp="1581249239731" />
-    <state width="1419" height="264" key="GridCell.Tab.0.right" timestamp="1581250173933">
-      <screen x="0" y="23" width="1440" height="825" />
-    </state>
-    <state width="1419" height="212" key="GridCell.Tab.0.right/0.23.1440.823@0.23.1440.823" timestamp="1581246809928" />
-    <state width="1419" height="264" key="GridCell.Tab.0.right/0.23.1440.825@0.23.1440.825" timestamp="1581250173933" />
-    <state width="1419" height="212" key="GridCell.Tab.0.right/0.23.1440.826@0.23.1440.826" timestamp="1581249239732" />
-    <state width="1419" height="264" key="GridCell.Tab.1.bottom" timestamp="1581250173935">
-      <screen x="0" y="23" width="1440" height="825" />
-    </state>
-    <state width="1419" height="264" key="GridCell.Tab.1.bottom/0.23.1440.825@0.23.1440.825" timestamp="1581250173935" />
-    <state width="1419" height="264" key="GridCell.Tab.1.center" timestamp="1581250173934">
-      <screen x="0" y="23" width="1440" height="825" />
-    </state>
-    <state width="1419" height="264" key="GridCell.Tab.1.center/0.23.1440.825@0.23.1440.825" timestamp="1581250173934" />
-    <state width="1419" height="264" key="GridCell.Tab.1.left" timestamp="1581250173934">
-      <screen x="0" y="23" width="1440" height="825" />
-    </state>
-    <state width="1419" height="264" key="GridCell.Tab.1.left/0.23.1440.825@0.23.1440.825" timestamp="1581250173934" />
-    <state width="1419" height="264" key="GridCell.Tab.1.right" timestamp="1581250173934">
-      <screen x="0" y="23" width="1440" height="825" />
-    </state>
-    <state width="1419" height="264" key="GridCell.Tab.1.right/0.23.1440.825@0.23.1440.825" timestamp="1581250173934" />
-    <state x="221" y="73" key="SettingsEditor" timestamp="1581247156262">
-      <screen x="0" y="23" width="1440" height="823" />
-    </state>
-    <state x="221" y="73" key="SettingsEditor/0.23.1440.823@0.23.1440.823" timestamp="1581247156262" />
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="i[0]" language="Python" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/pycham$usage_o.coverage" NAME="usage_o Coverage Results" MODIFIED="1643602455891" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/files/cls" />
+    <SUITE FILE_PATH="coverage/pycham$useage_of_file.coverage" NAME="useage_of_file Coverage Results" MODIFIED="1643606497593" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/files" />
   </component>
 </project>
